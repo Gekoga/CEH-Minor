@@ -1,6 +1,6 @@
 # CEH-Minor
 
-In deze github omgeving staat lijsten met woorden.
+In deze github omgeving staan lijsten met woorden.
 
 default_passwords.txt   -> 144 unieke woorden.  
 filtered_passwords.txt  -> 668 unieke woorden.  
